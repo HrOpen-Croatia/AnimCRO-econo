@@ -13,7 +13,7 @@ library("geodata")
 library("ggplot2")
 library("tidyterra")
 
-admin_cro1 <- gadm(country='HRV',level=1, path="C:/Users/salam/Dropbox (FAZ, Uni ZG)/_0_2023/05-svib2023/datathon-AnimCRO")
+admin_cro1 <- gadm(country='HRV',level=1, path="C:/_0_2023/05-svib2023/datathon-AnimCRO")
 
 admin_cro1$c.surface <- c(2640, 2030, 1781,641,2813,3626,1748,1229,5353,729,4155,1823,3588,4468,4540,2984,1262,2024, 2454,3646,3060)
 
