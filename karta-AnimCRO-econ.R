@@ -1,8 +1,11 @@
-# AnimCRO
-# supporting material for economic chalenge, datathon 2023, Croatia
+# AnimCRO team: Sara Kolar, Katarina Maric, Iva Tratnik, Mirta Vulje. mentor: assoc.prof. Dragica Salamon
+# University of Zagreb, Faculty of Agriculture
+# 11-05-2023
+# Supporting material for economic chalenge, datathon 2023, Croatia
 # Data from: on cows: number of owners per county from /HAPIH: Anual report 2021 Cattle breeding/, /link: https://www.hapih.hr/godisnja-izvjesca-cs-hapih-2021//
-#            on Croatia geography: GADM, OD Cro portal /link/
-#            on rural tourism in Croatia: /description/, /link/
+#            on Croatia geography: GADM, OD Cro portal 
+#            on rural tourism in Croatia: Croatian Chamber of Economy & Ministry of Tourism of the Republic of Croatia (2015): Rural Tourism in Croatia National Catalogue 
+#                                       /link: https://www.hgk.hr/documents/hgkkatalogruralniturizamhrvatskeweb57728ea64487b.pdf/
 
 
 library("raster")
